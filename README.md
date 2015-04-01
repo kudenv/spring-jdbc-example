@@ -9,7 +9,7 @@ Test application based on maven convention provided simple example an spring and
 <ul>
 	<li>dataSource</li>
 <li>jdbcTemplate - offere a powerfull and excelent mechanism to work with database</li>
-<li>transactionManager</li>
+<li>transactionManager </li>
 </ul>
 <p>4. PesrsonRowMapper class. This class make a mapping for a fields retrived from the person table into the <b>instance variable</b> of Person class, throuth the setters.
 Something similar how ORM works. But i am going to do this munually.</p>
